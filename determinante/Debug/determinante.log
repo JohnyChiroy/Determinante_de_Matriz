@@ -1,0 +1,6 @@
+﻿  determinatee.cpp
+C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\3.Algebra Lineal\Determinante\determinante\determinante\determinante\determinante\determinatee.cpp(13,2): warning C4002: hay demasiados argumentos para la invocación de macro "limpiar" de tipo función
+C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\3.Algebra Lineal\Determinante\determinante\determinante\determinante\determinante\determinatee.cpp(22,3): warning C4002: hay demasiados argumentos para la invocación de macro "limpiar" de tipo función
+C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\3.Algebra Lineal\Determinante\determinante\determinante\determinante\determinante\determinatee.cpp(60,12): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\3.Algebra Lineal\Determinante\determinante\determinante\determinante\determinante\determinatee.cpp(90,36): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  determinante.vcxproj -> C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\3.Algebra Lineal\Determinante\determinante\determinante\determinante\Debug\determinante.exe
